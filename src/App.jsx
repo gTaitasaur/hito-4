@@ -1,7 +1,8 @@
 import React from 'react'
 import Navbar from './components/Navbar'
 import Home from './components/Home'
-import Cart from "./components/Cart";
+import Pizza from './components/Pizza'
+//import Cart from "./components/Cart";
 //import RegisterPage from './components/RegisterPage';
 //import LoginPage from './components/LoginPage';
 import Footer from './components/Footer'
@@ -12,8 +13,9 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Home />
-      <Cart />
+      {/* <Home /> */}
+      <Pizza />
+      {/* <Cart /> */}
       {/* <RegisterPage /> */}
       {/* <LoginPage /> */}
       <Footer />
