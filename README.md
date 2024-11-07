@@ -1,7 +1,7 @@
-<Navbar />
-{/* <Home /> */}
-<Pizza />
-{/* <Cart /> */}
-{/* <RegisterPage /> */}
-{/* <LoginPage /> */}
-<Footer />
+Navbar />
+Home /> */} --Comentado
+Pizza />
+Cart /> */} --Comentado
+RegisterPage /> */} --Comentado
+LoginPage /> */} --Comentado
+Footer />
